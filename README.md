@@ -41,6 +41,14 @@ Lista com cursos gratuitos para a introdução a metodologia ágil e o uso do fr
 ## Vídeos
 
 
+- [Canal Universidade SCRUM](https://www.youtube.com/channel/UCovFs23papMp3rx6bJ1ordA)
+
+- [SCRUM em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+
+- [Básico de SCRUM](https://www.youtube.com/watch?v=o34Vj3O-mN4)
+
+- [Scrum // Dicionário do Programador](https://www.youtube.com/watch?v=3aCww_1RnL0)
+
 
 
 
