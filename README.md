@@ -11,14 +11,15 @@ Lista com cursos gratuitos para a introdução a metodologia ágil e o uso do fr
 
 <!-- toc -->
 
-  * [Vídeos](#vídeos)
+  
   * [Cursos gratuitos](#cursos)
   * [Livros](#livros)
+  * [Vídeos](#vídeos)
 
 <!-- toc stop -->
 
 
-##Cursos
+## Cursos
 
 - [Digital Innovation One](https://digitalinnovation.one/sign-in?redirect=/course/projetos-ageis-com-scrum/learning/aea1ea26-fd56-417d-8272-6e15253f4405/)
 
@@ -33,9 +34,12 @@ Lista com cursos gratuitos para a introdução a metodologia ágil e o uso do fr
 
 - [Porta GSTI](https://www.portalgsti.com.br/cursos/curso-gratuito-online-de-scrum/)
 
-##Livros
+## Livros
 
 - [SCRUM Experience (pdf)](https://www.rildosan.com/2009/06/scrum-experience-o-tutorial-scrum.html)
+
+## Vídeos
+
 
 
 
