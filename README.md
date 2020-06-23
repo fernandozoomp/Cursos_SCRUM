@@ -52,6 +52,6 @@ Lista com cursos gratuitos para a introdução a metodologia ágil e o uso do fr
 
 
 
-Lista atualizada periodicamente.
+Lista atualizada periodicamente. (23/06/2020)
 
 
