@@ -23,16 +23,17 @@ Lista com cursos gratuitos para a introdução a metodologia ágil e o uso do fr
 
 - [Digital Innovation One](https://digitalinnovation.one/sign-in?redirect=/course/projetos-ageis-com-scrum/learning/aea1ea26-fd56-417d-8272-6e15253f4405/)
 
-
 - [Ead.br](https://loja.ead.br/curso-gratis/metodologia-de-desenvolvimento-agil?gclid=CjwKCAjwxLH3BRApEiwAqX9arbgbNdXH0hTVGdOh-mQwlxwEC5PF5_JZuRlKK6KWyW8Pbh3pbOMVjBoCOAMQAvD_BwE)
-
 
 - [Unieducar.org.br](https://unieducar.org.br/catalogo/curso-gratis/formacao-completa-em-scrum-planejamento-e-gestao-agil-de-projetos-gratuito)
 
-
-
-
 - [Porta GSTI](https://www.portalgsti.com.br/cursos/curso-gratuito-online-de-scrum/)
+
+- [Grupo Voitto](https://www.voitto.com.br/digital/introducao-agile-scrum)
+
+- [Foco Ágil](http://www.focoagil.com.br/?gclid=CjwKCAjwmMX4BRAAEiwA-zM4JlKXrPFrDnZasMsCoYo3EIvQdF8cmW_mv3JWHdqunu89aA14EYtqsxoCqg0QAvD_BwE)
+
+- [Udemy](https://www.udemy.com/course/curso-scrum-basico-para-todos/)
 
 ## Livros
 
@@ -52,6 +53,6 @@ Lista com cursos gratuitos para a introdução a metodologia ágil e o uso do fr
 
 
 
-Lista atualizada periodicamente. (23/06/2020)
+Lista atualizada periodicamente. (17/07/2020)
 
 
