@@ -27,7 +27,7 @@ Lista com cursos gratuitos para a introdução a metodologia ágil (SCRUM)
 
 - [Unieducar.org.br](https://unieducar.org.br/catalogo/curso-gratis/formacao-completa-em-scrum-planejamento-e-gestao-agil-de-projetos-gratuito)
 
-- [Porta GSTI](https://www.portalgsti.com.br/cursos/curso-gratuito-online-de-scrum/)
+- [Portal GSTI](https://www.portalgsti.com.br/cursos/curso-gratuito-online-de-scrum/)
 
 - [Grupo Voitto](https://www.voitto.com.br/digital/introducao-agile-scrum)
 
@@ -48,7 +48,7 @@ Lista com cursos gratuitos para a introdução a metodologia ágil (SCRUM)
 
 - [Básico de SCRUM](https://www.youtube.com/watch?v=o34Vj3O-mN4)
 
-- [Scrum // Dicionário do Programador](https://www.youtube.com/watch?v=3aCww_1RnL0)
+- [SCRUM // Dicionário do Programador](https://www.youtube.com/watch?v=3aCww_1RnL0)
 
 
 
