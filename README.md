@@ -35,6 +35,8 @@ Lista com cursos gratuitos para a introdução a metodologia ágil (SCRUM)
 
 - [Udemy](https://www.udemy.com/course/curso-scrum-basico-para-todos/)
 
+- [Agile Project](https://eadcursoslivres.mackenzie.br/)
+
 ## Livros
 
 - [SCRUM Experience (pdf)](https://www.rildosan.com/2009/06/scrum-experience-o-tutorial-scrum.html)
@@ -53,6 +55,6 @@ Lista com cursos gratuitos para a introdução a metodologia ágil (SCRUM)
 
 
 
-Lista atualizada periodicamente. (17/07/2020)
+Lista atualizada periodicamente. (28/07/2020)
 
 
