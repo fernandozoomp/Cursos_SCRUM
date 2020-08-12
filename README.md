@@ -1,4 +1,4 @@
-# Cursos_SCRUM 💻 📓
+# Cursos_Metodologia_Ágil 💻 📓
 Lista com cursos gratuitos para a introdução a metodologia ágil (SCRUM)
 
 ## Conteúdo
