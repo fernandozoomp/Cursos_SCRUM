@@ -51,6 +51,18 @@ Lista com cursos gratuitos para a introdução a metodologia ágil (SCRUM)
 - [Básico de SCRUM](https://www.youtube.com/watch?v=o34Vj3O-mN4)
 
 - [SCRUM // Dicionário do Programador](https://www.youtube.com/watch?v=3aCww_1RnL0)
+ 
+  
+   
+   
+
+### Para baixar o repositório
+ 
+  
+  
+```
+git clone https://github.com/fernandozoomp/Cursos_SCRUM.git
+```
 
 
 
